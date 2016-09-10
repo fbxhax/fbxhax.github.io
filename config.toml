@@ -5,4 +5,5 @@ theme = 'fbxhackathon'
 canonifyurls = true
 
 [params]
-  site_name = "Fairbanks Hackathon"
+  name = "Fairbanks Hackathon"
+  description = "Fairbanks Hackathon"

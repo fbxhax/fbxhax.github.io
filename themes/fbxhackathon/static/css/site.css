@@ -1,0 +1,31 @@
+.introduction {
+  background-image: url(/img/uaf.jpg);
+  background-size:cover;
+  background-position: right center;
+}
+
+.introduction > .dark-bg {
+  background: #38a7bb;
+  opacity: 0.9;
+}
+
+.intro-content {
+  padding: 40px;
+}
+.intro-content .lead {
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #000;
+  font-style: italic;
+}
+
+.navbar .nav-link {
+  color: #000;
+  text-decoration: underline;
+}
+
+.more-info {
+  margin-top: 40px;
+}

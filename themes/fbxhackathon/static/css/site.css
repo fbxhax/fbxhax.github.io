@@ -6,7 +6,7 @@
 
 .introduction > .dark-bg {
   background: #38a7bb;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .intro-content {
@@ -28,4 +28,39 @@
 
 .more-info {
   margin-top: 40px;
+}
+
+.more-info .card {
+  border-color: transparent;
+}
+
+.more-info .card-icon {
+  margin: 20px;
+  margin-top: 0px;
+}
+
+.more-info .card-title {
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 0.08em;
+}
+
+.more-info p.card-text {
+  color: #888;
+}
+
+.projects {
+  background-color: #efefef;
+  margin-top: 40px;
+  padding: 40px;
+}
+
+.projects h1 {
+  text-transform: uppercase;
+  display: inline-block;
+  border-bottom: 5px solid #38a7bb;
+  margin-bottom: 40px;
+}
+
+.projects .card {
 }

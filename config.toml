@@ -1,4 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://fairbankshackathon.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fairbanks Hackathon"
 theme = 'fbxhackathon'
+canonifyurls = true
+
+[params]
+  site_name = "Fairbanks Hackathon"

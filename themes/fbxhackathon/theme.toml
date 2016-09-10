@@ -11,11 +11,5 @@ features = ["", ""]
 min_version = 0.15
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Will Fisher"
+  homepage = "http://teknofire.net"

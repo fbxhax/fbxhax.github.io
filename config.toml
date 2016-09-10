@@ -1,4 +1,4 @@
-baseurl = "http://fairbankshackathon.github.io/"
+baseurl = "https://fairbankshackathon.github.io/"
 languageCode = "en-us"
 title = "Fairbanks Hackathon"
 theme = 'fbxhackathon'

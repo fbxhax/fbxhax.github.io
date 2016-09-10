@@ -27,4 +27,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push
-git subtree push --prefix=public git@github.com:gina-alaska/alaskamapped.org.git master
+git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io master

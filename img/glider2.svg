@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="56" width="56" id="glider_svg">
+<rect
+style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke:#999999;stroke-opacity:1"
+width="54"
+height="54"
+x="1"
+y="1" />
+<rect
+style="fill-opacity:0;stroke-width:1;stroke:#999999;stroke-opacity:1"
+width="18"
+height="54"
+x="19"
+y="1" />
+<rect
+style="fill-opacity:0;stroke-width:1;stroke:#999999;stroke-opacity:1"
+width="54"
+height="18"
+x="1"
+y="19" />
+<circle
+style="fill:#000000;fill-opacity:1;stroke-width:0;"
+cx="28"
+cy="10"
+r="7" />
+<circle
+style="fill:#000000;fill-opacity:1;stroke-width:0;"
+cx="46"
+cy="28"
+r="7" />
+<circle
+style="fill:#000000;fill-opacity:1;stroke-width:0;"
+cx="46"
+cy="46"
+r="7" />
+<circle
+style="fill:#000000;fill-opacity:1;stroke-width:0;"
+cx="28"
+cy="46"
+r="7" />
+<circle
+style="fill:#000000;fill-opacity:1;stroke-width:0;"
+cx="10"
+cy="46"
+r="7" />
+</svg>

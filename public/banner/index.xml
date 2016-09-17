@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Banners on Fairbanks Hackathon</title>
+    <link>https://fairbankshackathon.github.io/banner/</link>
+    <description>Recent content in Banners on Fairbanks Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2016 17:48:39 -0800</lastBuildDate>
+    <atom:link href="https://fairbankshackathon.github.io/banner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>intro to fbxhax</title>
+      <link>https://fairbankshackathon.github.io/banner/intro-to-fbxhax/</link>
+      <pubDate>Fri, 16 Sep 2016 17:48:39 -0800</pubDate>
+      
+      <guid>https://fairbankshackathon.github.io/banner/intro-to-fbxhax/</guid>
+      <description>&lt;p&gt;Encourage the hacking community in Fairbanks Alaska.&lt;/p&gt;
+
+&lt;p&gt;Online space to collaborate and connect with the tech community in Fairbanks Alaska.&lt;/p&gt;
+
+&lt;p&gt;Allow the hacker community to publicly collect and iterate on ideas and challenges in their local area.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

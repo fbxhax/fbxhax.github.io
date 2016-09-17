@@ -10,22 +10,27 @@
     <atom:link href="https://fairbankshackathon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Project A</title>
-      <link>https://fairbankshackathon.github.io/project/Project-A/</link>
+      <title>Fruity Dream Booth</title>
+      <link>https://fairbankshackathon.github.io/project/fruity-dream-booth/</link>
       <pubDate>Sun, 11 Sep 2016 16:08:29 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/project/Project-A/</guid>
-      <description>&lt;p&gt;Content goes here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project B</title>
-      <link>https://fairbankshackathon.github.io/project/Project-B/</link>
-      <pubDate>Sun, 11 Sep 2016 16:09:36 -0800</pubDate>
-      
-      <guid>https://fairbankshackathon.github.io/project/Project-B/</guid>
-      <description>&lt;p&gt;Content goes here&lt;/p&gt;
+      <guid>https://fairbankshackathon.github.io/project/fruity-dream-booth/</guid>
+      <description>&lt;p&gt;The Fruity Dream Booth initial concept was to send pictures taken by a Raspberry Pi based photo-booth through the &lt;a href=&#34;https://github.com/google/deepdream&#34;&gt;Google DeepDream library&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/frutidreambooth&#34;&gt;tweet out&lt;/a&gt; the results.&lt;/p&gt;
+
+&lt;p&gt;The challenges and computing requirements for Google Deep Dream made doing this unfeasible on a Raspberry Pi. &lt;em&gt;hacking project learning through pain success&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The project team for Fruity Dream Booth:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/ferrio&#34;&gt;ferrio&lt;/a&gt; - core web server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/teknofire&#34;&gt;teknofire&lt;/a&gt; - javascript tweaking and moral support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/vlraymond&#34;&gt;vlraymond&lt;/a&gt; - twitter data feed setup, coding and passion&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/dayne&#34;&gt;dayne&lt;/a&gt; - general idea, infrastructure, and glue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The project code is hosted at &lt;a href=&#34;https://github.com/dayne/fruitydreambooth&#34;&gt;dayne/fruitydreambooth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&#34;https://twitter.com/frutidreambooth&#34;&gt;frutidreambooth&lt;/a&gt; tweet stream populated by the dream team efforts.&lt;/p&gt;
 </description>
     </item>
     

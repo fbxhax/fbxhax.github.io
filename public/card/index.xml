@@ -6,8 +6,21 @@
     <description>Recent content in Cards on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2016 09:02:29 -0800</lastBuildDate>
     <atom:link href="https://fairbankshackathon.github.io/card/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>connect</title>
+      <link>https://fairbankshackathon.github.io/card/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fairbankshackathon.github.io/card/connect/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GitHub organization&lt;/li&gt;
+&lt;li&gt;Chat with fellow Fairbanks Hackers on Gitter&lt;/li&gt;
+&lt;li&gt;Issue tracker - help us collect and organize hacking ideas, this website, and planning of hackathons.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>partners</title>
@@ -25,16 +38,18 @@
     </item>
     
     <item>
-      <title>connect</title>
-      <link>https://fairbankshackathon.github.io/card/connect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>meta</title>
+      <link>https://fairbankshackathon.github.io/card/meta/</link>
+      <pubDate>Sat, 17 Sep 2016 10:16:36 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/card/connect/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;GitHub organization&lt;/li&gt;
-&lt;li&gt;Chat with fellow Fairbanks Hackers on Gitter&lt;/li&gt;
-&lt;li&gt;Issue tracker - help us collect and organize hacking ideas, this website, and planning of hackathons.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://fairbankshackathon.github.io/card/meta/</guid>
+      <description>&lt;p&gt;We want Fairbanks Hackathon to be an open and inclusive community. We have a public GitHub organization for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.&lt;/p&gt;
+
+&lt;p&gt;If you do not already have a GitHub account create one and we encourage you to star, or even watch, our website repository on GitHub.&lt;/p&gt;
+
+&lt;p&gt;You are encouraged to help us improve the website through reporting bugs/ideas/content on our issue tracker. Even better learn how to hack directly on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;contributions welcomed&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

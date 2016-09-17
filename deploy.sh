@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
@@ -27,4 +27,8 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push
-git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io master
+if [ -f .key_deploy ]; then
+  git subtree push --prefix=public git@github.com:FairbanksHackathon/fairbankshackathon.github.io.git master
+else
+  git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io master
+fi

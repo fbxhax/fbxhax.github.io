@@ -1,0 +1,22 @@
+<div class="more-info container-fluid">
+  <div class="card-deck-wrapper">
+    <div class="card-deck">
+{{ range ( where .Data.Pages "Type" "card" ) }}
+      <div class="card card-outline-primary text-xs-center">
+        <div class="card-block">
+          <h1 class="card-icon text-xs-center">
+              <i class="fa {{ .Params.fa_icon }} fa-fw"></i>
+          </h1>
+
+          <h4 class="card-title">{{ .Title }}</h4>
+
+          <p class="card-text">
+            {{ .Content }}
+          </p>
+          <a href="{{ .Permalink }}">...</a>
+        </div>
+      </div>
+{{ end }}
+    </div>
+  </div>
+</div>

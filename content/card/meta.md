@@ -12,4 +12,6 @@ We want Fairbanks Hackathon to be an open and inclusive community. We have a pub
 
 If you do not already have a GitHub account create one and we encourage you to star, or even watch, our website repository on GitHub.
 
-You are encouraged to help us improve the website through reporting bugs/ideas/content on our issue tracker. Even better learn how to hack directly on the website.
+You are encouraged to help us improve the website through reporting bugs/ideas/content on our issue tracker. Even better learn how to hack directly on the website.  
+
+_contributions welcomed_

@@ -13,11 +13,11 @@ The challenges and computing requirements for Google Deep Dream made doing this 
 
 The project team for Fruity Dream Booth:
 
-* [@ferrio]
-* [@teknofire]
-* [@vlraymond]
-* [@dayne]
+* [ferrio](http://github.com/ferrio) - core web server
+* [teknofire](http://github.com/teknofire) - javascript tweaking and moral support
+* [vlraymond](http://github.com/vlraymond) - twitter data feed setup, coding and passion
+* [dayne](http://github.com/dayne) - general idea, infrastructure, and glue
 
 The project code is hosted at [dayne/fruitydreambooth](https://github.com/dayne/fruitydreambooth)
 
-Check out [frutidreambooth](https://twitter.com/frutidreambooth) twitter feed  populated by the dream team efforts.
+Check out the [frutidreambooth](https://twitter.com/frutidreambooth) tweet stream populated by the dream team efforts.

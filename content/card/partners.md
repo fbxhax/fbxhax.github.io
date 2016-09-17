@@ -4,7 +4,6 @@ description = "Description used as part of the summary"
 image_url = "holder.js/400x200?auto=true"
 title = "partners"
 weight = 0
-title = "Connect"
 fa_icon = "fa-lightbulb-o"
 +++
 

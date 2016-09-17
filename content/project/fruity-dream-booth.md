@@ -1,7 +1,7 @@
 +++
 date = "2016-09-11T16:08:29-08:00"
 description = "Fruity Dream Booth is a silly collection of code to connect a people with a party photo-booth, dreamy image processing, and the internet image sharing platforms."
-image_url = "img/fruitydreambooth-partial_team.png"
+image_url = "/img/fruitydreambooth-partial_team.png"
 title = "Fruity Dream Booth"
 weight = 0
 

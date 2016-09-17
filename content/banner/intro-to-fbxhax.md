@@ -6,6 +6,8 @@ description = "Introduction to Fairbanks Hackathon"
 weight = 0
 +++
 
-*Fairbanks Hackathon* is a place to help organize and encourage the hacking community in Fairbanks Alaska. Online space to collaborate and connect with the tech community in Fairbanks Alaska.
+*Fairbanks _Hackathon_* is a place to help organize and encourage the hacking community in Fairbanks Alaska.
+
+Online space to collaborate and connect with the tech community in Fairbanks Alaska.
 
 We hope this website and supporting tools will allow a place to public collect and iterate on ideas and challenges.

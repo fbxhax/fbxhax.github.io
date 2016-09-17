@@ -1,7 +1,7 @@
 +++
 image_url = "holder.js/400x200?auto=true"
 title = "connect"
-weight = 1
+weight = 0
 fa_icon = "fa-gear"
 +++
 

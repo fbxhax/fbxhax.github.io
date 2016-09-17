@@ -1,7 +1,7 @@
 <div class="more-info container-fluid">
   <div class="card-deck-wrapper">
     <div class="card-deck">
-{{ range ( where .Data.Pages "Type" "card" ) }}
+{{ range ( where .Data.Pages "Type" "card" ) sort .Params.weight }}
       <div class="card card-outline-primary text-xs-center">
         <div class="card-block">
           <h1 class="card-icon text-xs-center">

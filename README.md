@@ -10,6 +10,6 @@ public website for the fairbanks hackathon team
 * run `hugo server` to preview changes
 * commit changes and deploy running `./deploy.sh` script
 
-## Key files to pay attention to for content (currently)
+## Key things pay attention to for content (currently)
 * Front page `themes/layouts/partials` which is loaded from `themes/layouts/index.html`
-* 
+* the `public` folder is actually a subtree to `master` branch. Don't delete that.

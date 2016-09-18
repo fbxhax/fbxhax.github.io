@@ -82,9 +82,11 @@
 
 &lt;p&gt;&lt;i class=&#34;fa fa-comments-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;Chat with fellow Fairbanks Hackers on Gitter&lt;/p&gt;
+&lt;p&gt;Chat with fellow Fairbanks Hackers on our Gitter &lt;a href=&#34;https://gitter.im/FairbanksHackathon/Lobby&#34;&gt;FairbanksHackathon Lobby&lt;/a&gt; chat channel.  Just need a GitHub identity to join!&lt;/p&gt;
 
-&lt;p&gt;Issue tracker - help us collect and organize hacking ideas, this website, and planning of hackathons.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-lightbulb-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;We also use our issue tracker to collect and organize hacking ideas for hackathons.  If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;website issue tracker&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

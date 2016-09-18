@@ -6,7 +6,26 @@
     <description>Recent content in Cards on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 17 Sep 2016 10:16:36 -0800</lastBuildDate>
     <atom:link href="https://fairbankshackathon.github.io/card/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://fairbankshackathon.github.io/card/meta/</link>
+      <pubDate>Sat, 17 Sep 2016 10:16:36 -0800</pubDate>
+      
+      <guid>https://fairbankshackathon.github.io/card/meta/</guid>
+      <description>&lt;p&gt;We want &lt;a href=&#34;https://fairbankshackathon.github.io/&#34;&gt;Fairbanks Hackathon&lt;/a&gt; to be an open and inclusive community. We have a public &lt;a href=&#34;https://github.com/FairbanksHackathon&#34;&gt;GitHub organization&lt;/a&gt; for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-github-alt fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;If you do not already have a GitHub account create one and we encourage you to star, or even watch, our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io&#34;&gt;website repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-bug fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;You are encouraged to help us improve the website through reporting bugs/ideas/content on our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;issue tracker&lt;/a&gt;. Even better learn how to hack directly on the website.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>connect</title>
@@ -14,11 +33,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fairbankshackathon.github.io/card/connect/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;GitHub organization&lt;/li&gt;
-&lt;li&gt;Chat with fellow Fairbanks Hackers on Gitter&lt;/li&gt;
-&lt;li&gt;Issue tracker - help us collect and organize hacking ideas, this website, and planning of hackathons.&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;Fairbanks Hackathon provides the community a few methods of connecting with each other:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;github.com/FairbanksHackathon&#34;&gt;Fairbanks Hackathon GitHub organization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-newspaper-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io&#34;&gt;Fairbanks Hackathon Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-comments-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Chat with fellow Fairbanks Hackers on Gitter&lt;/p&gt;
+
+&lt;p&gt;Issue tracker - help us collect and organize hacking ideas, this website, and planning of hackathons.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,28 +55,15 @@
       <pubDate>Sat, 17 Sep 2016 09:02:29 -0800</pubDate>
       
       <guid>https://fairbankshackathon.github.io/card/partners/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;University of Alaska NSF EPSCoR&lt;/li&gt;
-&lt;li&gt;Fairbanks Economic Development Corporation&lt;/li&gt;
-&lt;li&gt;UAF Office of Intellectual Property and Commercialization&lt;/li&gt;
-&lt;li&gt;UAA Alaska Small Business Development&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>meta</title>
-      <link>https://fairbankshackathon.github.io/card/meta/</link>
-      <pubDate>Sat, 17 Sep 2016 10:16:36 -0800</pubDate>
-      
-      <guid>https://fairbankshackathon.github.io/card/meta/</guid>
-      <description>&lt;p&gt;We want Fairbanks Hackathon to be an open and inclusive community. We have a public GitHub organization for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.&lt;/p&gt;
+      <description>&lt;p&gt;Support for the Fairbanks Hackathon community as a component in the growth and diversification of a local civic hacking community, technology industry, and the Fairbanks economy.&lt;/p&gt;
 
-&lt;p&gt;If you do not already have a GitHub account create one and we encourage you to star, or even watch, our website repository on GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://alaska.edu/epscor&#34;&gt;University of Alaska NSF EPSCoR&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You are encouraged to help us improve the website through reporting bugs/ideas/content on our issue tracker. Even better learn how to hack directly on the website.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.investfairbanks.com/&#34;&gt;Fairbanks Economic Development Corporation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;contributions welcomed&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.uaf.edu/oipc/&#34;&gt;UAF Office of Intellectual Property and Commercialization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://aksbdc.org/&#34;&gt;Alaska Small Business Development&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

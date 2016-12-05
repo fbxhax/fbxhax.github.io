@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cards on Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/card/</link>
-    <description>Recent content in Cards on Fairbanks Hackathon</description>
+    <title>Card-rsses on Fairbanks Hackathon</title>
+    <link>https://fairbankshackathon.github.io/card/index.xml</link>
+    <description>Recent content in Card-rsses on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Sep 2016 10:16:36 -0800</lastBuildDate>
@@ -35,7 +35,7 @@
       <guid>https://fairbankshackathon.github.io/card/connect/</guid>
       <description>&lt;p&gt;Fairbanks Hackathon provides the community a few methods of connecting with each other:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;github.com/FairbanksHackathon&#34;&gt;Fairbanks Hackathon GitHub organization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon&#34;&gt;Fairbanks Hackathon GitHub organization&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&#34;fa fa-newspaper-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 

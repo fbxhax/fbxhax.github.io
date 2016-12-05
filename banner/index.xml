@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Banners on Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/banner/</link>
-    <description>Recent content in Banners on Fairbanks Hackathon</description>
+    <title>Banner-rsses on Fairbanks Hackathon</title>
+    <link>https://fairbankshackathon.github.io/banner/index.xml</link>
+    <description>Recent content in Banner-rsses on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Sep 2016 17:48:39 -0800</lastBuildDate>

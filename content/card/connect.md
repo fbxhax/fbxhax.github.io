@@ -7,7 +7,7 @@ fa_icon = "fa-gear"
 
 Fairbanks Hackathon provides the community a few methods of connecting with each other:
 
-[Fairbanks Hackathon GitHub organization](github.com/FairbanksHackathon)
+[Fairbanks Hackathon GitHub organization](https://github.com/FairbanksHackathon)
 
 <i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i>
 

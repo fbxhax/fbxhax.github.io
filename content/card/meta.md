@@ -17,3 +17,7 @@ If you do not already have a GitHub account create one and we encourage you to s
 <i class="fa fa-bug fa-2x" aria-hidden="true"></i>
 
 You are encouraged to help us improve the website through reporting bugs/ideas/content on our [issue tracker](https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues). Even better learn how to hack directly on the website.  
+
+<i class="fa fa-newspaper-o fa-3x" aria-hidden="true"></i>
+
+[Fairbanks Hackathon Website](https://github.com/FairbanksHackathon/fairbankshackathon.github.io) is a public repository and hosted on GitHub.  Feel free to help us improve it.

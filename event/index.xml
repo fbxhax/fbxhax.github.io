@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Fairbanks Hackathon</title>
+    <link>https://fairbankshackathon.github.io/event/</link>
+    <description>Recent content in Events on Fairbanks Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2017 14:20:00 -0400</lastBuildDate>
+    <atom:link href="https://fairbankshackathon.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Fairbanks Raspberry Jam</title>
+      <link>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</link>
+      <pubDate>Sat, 22 Apr 2017 14:20:00 -0400</pubDate>
+      
+      <guid>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</guid>
+      <description>&lt;p&gt;The first Fairbanks &lt;a href=&#34;https://www.raspberrypi.org/jam/&#34;&gt;Raspberry Jam&lt;/a&gt; is 1:30-3:30 Saturday April 29th, 2017 Downtown Fairbanks at the Fairbanks Economic Development Corporation.  Join us and meet other local &lt;a href=&#34;https://www.raspberrypi.org/&#34;&gt;Raspberry Pi&lt;/a&gt; enthusiasts&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Share your projects&lt;/li&gt;
+&lt;li&gt;Find out what others are doing&lt;/li&gt;
+&lt;li&gt;Learn new stuff&lt;/li&gt;
+&lt;li&gt;Collaborate with others&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/fbxraspberryjam&#34;&gt;Sign up&lt;/a&gt; and be eligible to win a Pi at the event (must be present to win).&lt;/p&gt;
+
+&lt;p&gt;Use our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues/6&#34;&gt;Raspberry Jam GitHub Issue&lt;/a&gt; to help us plan further.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

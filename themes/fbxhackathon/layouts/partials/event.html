@@ -1,4 +1,7 @@
-asfasdlkjasdfdd
 {{ range ( where .Data.Pages "Type" "event" ) }}
-{{ .Render "summary" }}
+  <div class="card">
+    <div class="card-block">
+      {{ .Render "summary" }}
+    </div>
+  </div>
 {{ end }}

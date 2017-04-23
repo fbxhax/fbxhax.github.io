@@ -1,0 +1,8 @@
+<div class="row event">
+  <p> event content here </p>
+  {{ range where .Site.Pages "Section" "event" }}
+    <h2> {{ .Title }} </h2>
+    {{ .Content }}
+  {{ end }}
+  <p> end of content </p>
+</div>

@@ -2,12 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/index.xml</link>
+    <link>https://fairbankshackathon.github.io/</link>
     <description>Recent content on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2016 17:48:39 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 14:20:00 -0400</lastBuildDate>
     <atom:link href="https://fairbankshackathon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Fairbanks Raspberry Jam</title>
+      <link>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</link>
+      <pubDate>Sat, 22 Apr 2017 14:20:00 -0400</pubDate>
+      
+      <guid>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</guid>
+      <description>&lt;p&gt;The first Fairbanks &lt;a href=&#34;https://www.raspberrypi.org/jam/&#34;&gt;Raspberry Jam&lt;/a&gt; is 1:30-3:30 Saturday April 29th, 2017 Downtown Fairbanks at the Fairbanks Economic Development Corporation.  Join us and meet other local &lt;a href=&#34;https://www.raspberrypi.org/&#34;&gt;Raspberry Pi&lt;/a&gt; enthusiasts&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Share your projects&lt;/li&gt;
+&lt;li&gt;Find out what others are doing&lt;/li&gt;
+&lt;li&gt;Learn new stuff&lt;/li&gt;
+&lt;li&gt;Collaborate with others&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/fbxraspberryjam&#34;&gt;Sign up&lt;/a&gt; and be eligible to win a Pi at the event (must be present to win).&lt;/p&gt;
+
+&lt;p&gt;Use our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues/6&#34;&gt;Raspberry Jam GitHub Issue&lt;/a&gt; to help us plan further.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>intro to fbxhax</title>
@@ -63,6 +84,10 @@
 &lt;p&gt;&lt;i class=&#34;fa fa-bug fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;You are encouraged to help us improve the website through reporting bugs/ideas/content on our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;issue tracker&lt;/a&gt;. Even better learn how to hack directly on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-newspaper-o fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io&#34;&gt;Fairbanks Hackathon Website&lt;/a&gt; is a public repository and hosted on GitHub.  Feel free to help us improve it.&lt;/p&gt;
 </description>
     </item>
     
@@ -76,13 +101,17 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon&#34;&gt;Fairbanks Hackathon GitHub organization&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-newspaper-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io&#34;&gt;Fairbanks Hackathon Website&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;i class=&#34;fa fa-comments-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;Chat with fellow Fairbanks Hackers on our Gitter &lt;a href=&#34;https://gitter.im/FairbanksHackathon/Lobby&#34;&gt;FairbanksHackathon Lobby&lt;/a&gt; chat channel.  Just need a GitHub identity to join!&lt;/p&gt;
+&lt;p&gt;Chat with fellow Fairbanks Hackers.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-slack fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://akdevops.slack.com&#34;&gt;Alaska DevOps Slack&lt;/a&gt; - a chat community for systems, developers, and enthusiasts of &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;DevOps&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-comment-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Fairbanks Hackathon has a &lt;a href=&#34;gitter.im&#34;&gt;Gitter&lt;/a&gt; &lt;a href=&#34;https://gitter.im/FairbanksHackathon/Lobby&#34;&gt;FairbanksHackathon Lobby&lt;/a&gt; chat channel. We use this to help plan events and provide a central chat channel during events. Just need a &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; identity to join!&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&#34;fa fa-lightbulb-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 

@@ -9,13 +9,17 @@ Fairbanks Hackathon provides the community a few methods of connecting with each
 
 [Fairbanks Hackathon GitHub organization](https://github.com/FairbanksHackathon)
 
-<i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i>
-
-[Fairbanks Hackathon Website](https://github.com/FairbanksHackathon/fairbankshackathon.github.io)
-
 <i class="fa fa-comments-o fa-2x" aria-hidden="true"></i>
 
-Chat with fellow Fairbanks Hackers on our Gitter [FairbanksHackathon Lobby](https://gitter.im/FairbanksHackathon/Lobby) chat channel.  Just need a GitHub identity to join!
+Chat with fellow Fairbanks Hackers.
+
+<i class="fa fa-slack fa-2x" aria-hidden="true"></i>
+
+[Alaska DevOps Slack](https://akdevops.slack.com) - a chat community for systems, developers, and enthusiasts of [DevOps](https://en.wikipedia.org/wiki/DevOps).
+
+<i class="fa fa-comment-o fa-2x" aria-hidden="true"></i>
+
+Fairbanks Hackathon has a [Gitter](gitter.im) [FairbanksHackathon Lobby](https://gitter.im/FairbanksHackathon/Lobby) chat channel. We use this to help plan events and provide a central chat channel during events. Just need a [GitHub](https://github.com) identity to join!
 
 <i class="fa fa-lightbulb-o fa-2x" aria-hidden="true"></i>
 

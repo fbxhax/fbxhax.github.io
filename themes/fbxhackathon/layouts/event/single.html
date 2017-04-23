@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<div class="container" margin-top: 10px;>
+  <img src="{{ .Params.image_url }}" alt="" class="pull-right" style="width:400px"/>
+  <h1>{{ .Title }}</h1>
+
+  <div>
+    {{ .Content }}
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

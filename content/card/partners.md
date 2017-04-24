@@ -16,3 +16,7 @@ Support for the Fairbanks Hackathon community as a component in the growth and d
 [UAF Office of Intellectual Property and Commercialization](http://www.uaf.edu/oipc/)
 
 [Alaska Small Business Development](https://aksbdc.org/)
+
+<i class="fa fa-slack fa-3x" aria-hidden="true"></i>
+
+[Alaska DevOps Slack](https://slack.akdevops.org/) - a chat community for systems, developers, and enthusiasts of [DevOps](https://en.wikipedia.org/wiki/DevOps).

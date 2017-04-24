@@ -17,11 +17,11 @@
       <guid>https://fairbankshackathon.github.io/card/meta/</guid>
       <description>&lt;p&gt;We want &lt;a href=&#34;https://fairbankshackathon.github.io/&#34;&gt;Fairbanks Hackathon&lt;/a&gt; to be an open and inclusive community. We have a public &lt;a href=&#34;https://github.com/FairbanksHackathon&#34;&gt;GitHub organization&lt;/a&gt; for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-github-alt fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-github-alt fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;If you do not already have a GitHub account create one and we encourage you to star, or even watch, our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io&#34;&gt;website repository&lt;/a&gt; on GitHub.&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-bug fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-bug fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;You are encouraged to help us improve the website through reporting bugs/ideas/content on our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;issue tracker&lt;/a&gt;. Even better learn how to hack directly on the website.&lt;/p&gt;
 
@@ -41,21 +41,13 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/FairbanksHackathon&#34;&gt;Fairbanks Hackathon GitHub organization&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-comments-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;Chat with fellow Fairbanks Hackers.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;fa fa-slack fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://akdevops.slack.com&#34;&gt;Alaska DevOps Slack&lt;/a&gt; - a chat community for systems, developers, and enthusiasts of &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;DevOps&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;fa fa-comment-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-comments-o fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Fairbanks Hackathon has a &lt;a href=&#34;gitter.im&#34;&gt;Gitter&lt;/a&gt; &lt;a href=&#34;https://gitter.im/FairbanksHackathon/Lobby&#34;&gt;FairbanksHackathon Lobby&lt;/a&gt; chat channel. We use this to help plan events and provide a central chat channel during events. Just need a &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; identity to join!&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-lightbulb-o fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-lightbulb-o fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;We also use our issue tracker to collect and organize hacking ideas for hackathons.  If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;website issue tracker&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also use our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;issue tracker&lt;/a&gt; to collect and organize hacking ideas for hackathons.  If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our &lt;a href=&#34;https://github.com/FairbanksHackathon/fairbankshackathon.github.io/issues&#34;&gt;website issue tracker&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -74,6 +66,10 @@
 &lt;p&gt;&lt;a href=&#34;http://www.uaf.edu/oipc/&#34;&gt;UAF Office of Intellectual Property and Commercialization&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://aksbdc.org/&#34;&gt;Alaska Small Business Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-slack fa-3x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://slack.akdevops.org/&#34;&gt;Alaska DevOps Slack&lt;/a&gt; - a chat community for systems, developers, and enthusiasts of &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;DevOps&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

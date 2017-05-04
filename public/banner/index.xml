@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Banners on Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/banner/index.xml</link>
+    <link>https://fairbankshackathon.github.io/banner/</link>
     <description>Recent content in Banners on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Sep 2016 17:48:39 -0800</lastBuildDate>
-    <atom:link href="https://fairbankshackathon.github.io/banner/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://fairbankshackathon.github.io/banner/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>intro to fbxhax</title>
@@ -15,12 +17,7 @@
       <pubDate>Fri, 16 Sep 2016 17:48:39 -0800</pubDate>
       
       <guid>https://fairbankshackathon.github.io/banner/intro-to-fbxhax/</guid>
-      <description>
-
-&lt;h1 id=&#34;fairbanks-hackathon&#34;&gt;Fairbanks Hackathon&lt;/h1&gt;
-
-&lt;p&gt;A public forum to organize and encourage the growth of a hacking community in Fairbanks Alaska. Fairbanks Hackathon website and events allow passionate hackers to collaborate, connect and tackle interesting problems. The Fairbanks Hackathon GitHub organization allows the community to collect and iterate on ideas and challenges relevant to interior Alaska.&lt;/p&gt;
-</description>
+      <description>Fairbanks Hackathon A public forum to organize and encourage the growth of a hacking community in Fairbanks Alaska. Fairbanks Hackathon website and events allow passionate hackers to collaborate, connect and tackle interesting problems. The Fairbanks Hackathon GitHub organization allows the community to collect and iterate on ideas and challenges relevant to interior Alaska.</description>
     </item>
     
   </channel>

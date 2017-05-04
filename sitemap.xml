@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://fairbankshackathon.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fairbankshackathon.github.io/event/</loc>
     <lastmod>2017-04-22T14:20:00-04:00</lastmod>
     <priority>0</priority>
@@ -57,6 +62,11 @@
   <url>
     <loc>https://fairbankshackathon.github.io/project/</loc>
     <lastmod>2016-09-11T16:08:29-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fairbankshackathon.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

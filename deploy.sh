@@ -28,7 +28,7 @@ git commit -m "$msg"
 # Push source and build repos.
 git push
 if [ -f .key_deploy ]; then
-  git subtree push --prefix=public git@github.com:FairbanksHackathon/fairbankshackathon.github.io.git master
+  git subtree push --prefix=public git@github.com:FairbanksHackathon/fairbankshackathon.github.io.git main
 else
-  git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io master
+  git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io main
 fi

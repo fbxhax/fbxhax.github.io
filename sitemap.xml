@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://fairbankshackathon.github.io/card/meta/</loc>
@@ -16,8 +17,33 @@
   </url>
   
   <url>
+    <loc>https://fairbankshackathon.github.io/event/</loc>
+    <lastmod>2017-09-22T14:20:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fairbankshackathon.github.io/event/2017-09-devmeetup/</loc>
+    <lastmod>2017-09-22T14:20:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fairbankshackathon.github.io/</loc>
+    <lastmod>2017-09-22T14:20:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</loc>
     <lastmod>2017-04-22T14:20:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fairbankshackathon.github.io/card/</loc>
+    <lastmod>2016-09-17T10:16:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fairbankshackathon.github.io/banner/</loc>
+    <lastmod>2016-09-16T17:48:39-08:00</lastmod>
   </url>
   
   <url>
@@ -31,43 +57,16 @@
   </url>
   
   <url>
-    <loc>https://fairbankshackathon.github.io/banner/</loc>
-    <lastmod>2016-09-16T17:48:39-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fairbankshackathon.github.io/card/</loc>
-    <lastmod>2016-09-17T10:16:36-08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://fairbankshackathon.github.io/project/</loc>
+    <lastmod>2016-09-11T16:08:29-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://fairbankshackathon.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fairbankshackathon.github.io/event/</loc>
-    <lastmod>2017-04-22T14:20:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fairbankshackathon.github.io/</loc>
-    <lastmod>2016-09-17T10:16:36-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fairbankshackathon.github.io/project/</loc>
-    <lastmod>2016-09-11T16:08:29-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fairbankshackathon.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

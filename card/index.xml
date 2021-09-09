@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cards on Fairbanks Hackathon</title>
@@ -18,10 +18,8 @@
       
       <guid>https://fairbankshackathon.github.io/card/meta/</guid>
       <description>We want Fairbanks Hackathon to be an open and inclusive community. We have a public GitHub organization for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.
-
 If you do not already have a GitHub account create one and we encourage you to star, or even watch, our website repository on GitHub.
-
-You are encouraged to help us improve the website through reporting bugs/ideas/content on our issue tracker.</description>
+You are encouraged to help us improve the website through hacking on it or reporting bugs/ideas/content on our issue tracker.</description>
     </item>
     
     <item>
@@ -32,9 +30,7 @@ You are encouraged to help us improve the website through reporting bugs/ideas/c
       <guid>https://fairbankshackathon.github.io/card/connect/</guid>
       <description>Fairbanks Hackathon provides the community a few methods of connecting with each other:
 Fairbanks Hackathon GitHub organization
-
 Fairbanks Hackathon has a Gitter FairbanksHackathon Lobby chat channel. We use this to help plan events and provide a central chat channel during events. Just need a GitHub identity to join!
-
 We also use our issue tracker to collect and organize hacking ideas for hackathons. If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our website issue tracker.</description>
     </item>
     
@@ -49,7 +45,6 @@ University of Alaska NSF EPSCoR
 Fairbanks Economic Development Corporation
 UAF Office of Intellectual Property and Commercialization
 Alaska Small Business Development
-
 Alaska DevOps Slack - a chat community for systems, developers, and enthusiasts of DevOps.</description>
     </item>
     

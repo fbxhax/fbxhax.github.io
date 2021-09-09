@@ -13,7 +13,7 @@ git pull -s subtree
 # Clear public content
 rm -r public/*
 # Build the project.
-hugo
+hugo -d docs
 
 # Add changes to git.
 git add public/*

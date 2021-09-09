@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/project/</link>
+    <link>https://fbxhax.github.io/project/</link>
     <description>Recent content in Projects on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Sep 2016 16:08:29 -0800</lastBuildDate>
     
-	<atom:link href="https://fairbankshackathon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fbxhax.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fruity Dream Booth</title>
-      <link>https://fairbankshackathon.github.io/project/fruity-dream-booth/</link>
+      <link>https://fbxhax.github.io/project/fruity-dream-booth/</link>
       <pubDate>Sun, 11 Sep 2016 16:08:29 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/project/fruity-dream-booth/</guid>
+      <guid>https://fbxhax.github.io/project/fruity-dream-booth/</guid>
       <description>The Fruity Dream Booth initial concept was to send pictures taken by a Raspberry Pi based photo-booth through the Google DeepDream library and tweet out the results.
 The challenges and computing requirements for Google Deep Dream made doing this unfeasible on a Raspberry Pi. hacking project learning through pain success
 The project team for Fruity Dream Booth:

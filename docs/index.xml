@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/</link>
+    <link>https://fbxhax.github.io/</link>
     <description>Recent content on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 14:20:00 -0400</lastBuildDate>
     
-	<atom:link href="https://fairbankshackathon.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fbxhax.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://fairbankshackathon.github.io/card/meta/</link>
+      <link>https://fbxhax.github.io/card/meta/</link>
       <pubDate>Sat, 17 Sep 2016 10:16:36 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/card/meta/</guid>
+      <guid>https://fbxhax.github.io/card/meta/</guid>
       <description>We want Fairbanks Hackathon to be an open and inclusive community. We have a public GitHub organization for projects managed by the FBXHAX community. Our website, both the source content and site hosting, is on GitHub as a public repository.
 If you do not already have a GitHub account create one and we encourage you to star, or even watch, our website repository on GitHub.
 You are encouraged to help us improve the website through hacking on it or reporting bugs/ideas/content on our issue tracker.</description>
@@ -24,22 +24,22 @@ You are encouraged to help us improve the website through hacking on it or repor
     
     <item>
       <title>connect</title>
-      <link>https://fairbankshackathon.github.io/card/connect/</link>
+      <link>https://fbxhax.github.io/card/connect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/card/connect/</guid>
+      <guid>https://fbxhax.github.io/card/connect/</guid>
       <description>Fairbanks Hackathon provides the community a few methods of connecting with each other:
 Fairbanks Hackathon GitHub organization
-Fairbanks Hackathon has a Gitter FairbanksHackathon Lobby chat channel. We use this to help plan events and provide a central chat channel during events. Just need a GitHub identity to join!
-We also use our issue tracker to collect and organize hacking ideas for hackathons. If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our website issue tracker.</description>
+We dont&amp;rsquo; have a Gitter/Discord/Twitter.
+We also use our issue tracker to collect and organize hacking ideas for hackathons. If you have an idea or problem you think would be great to be put forward during a hackathon event toss it into our [website issue tracker](https://github.com/fbxhax/fbxhax.github.io/issues</description>
     </item>
     
     <item>
       <title>partners</title>
-      <link>https://fairbankshackathon.github.io/card/partners/</link>
+      <link>https://fbxhax.github.io/card/partners/</link>
       <pubDate>Sat, 17 Sep 2016 09:02:29 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/card/partners/</guid>
+      <guid>https://fbxhax.github.io/card/partners/</guid>
       <description>Support for the Fairbanks Hackathon community as a component in the growth and diversification of a local civic hacking community, technology industry, and the Fairbanks economy.
 University of Alaska NSF EPSCoR
 Fairbanks Economic Development Corporation
@@ -50,10 +50,10 @@ Alaska DevOps Slack - a chat community for systems, developers, and enthusiasts 
     
     <item>
       <title>Fairbanks Dev Meet-up</title>
-      <link>https://fairbankshackathon.github.io/event/2017-09-devmeetup/</link>
+      <link>https://fbxhax.github.io/event/2017-09-devmeetup/</link>
       <pubDate>Fri, 22 Sep 2017 14:20:00 -0400</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/event/2017-09-devmeetup/</guid>
+      <guid>https://fbxhax.github.io/event/2017-09-devmeetup/</guid>
       <description>Fairbanks developers are looking to get together to form a dev/programmer meetup in Fairbanks and form a bit of a community around that.
 The group is not yet sure what it&amp;rsquo;ll become - could a web dev meetup, a linux meetup, an AI group, whatever- depending on interest and skills.
  Time is TBD: (fill out doodle poll below to help select a time) Location is at the Fairbanks Attently.io offices (details coming with date selection).</description>
@@ -61,33 +61,43 @@ The group is not yet sure what it&amp;rsquo;ll become - could a web dev meetup, 
     
     <item>
       <title>First Fairbanks Raspberry Jam</title>
-      <link>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</link>
+      <link>https://fbxhax.github.io/event/2017-04-raspberryjam/</link>
       <pubDate>Sat, 22 Apr 2017 14:20:00 -0400</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</guid>
+      <guid>https://fbxhax.github.io/event/2017-04-raspberryjam/</guid>
       <description>The first Fairbanks Raspberry Jam is 1:30-3:30 p.m. on Saturday April 29th, 2017 in Downtown Fairbanks at the Fairbanks Economic Development Corporation. Join us and meet other local Raspberry Pi enthusiasts.
  Share your projects Find out what others are doing Learn new stuff Collaborate with others  Sign up and be eligible to win a Pi at the event (must be present to win). Saturday, April, 29th 2017 1:30 - 3:30 p.</description>
     </item>
     
     <item>
       <title>intro to fbxhax</title>
-      <link>https://fairbankshackathon.github.io/banner/intro-to-fbxhax/</link>
+      <link>https://fbxhax.github.io/banner/intro-to-fbxhax/</link>
       <pubDate>Fri, 16 Sep 2016 17:48:39 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/banner/intro-to-fbxhax/</guid>
+      <guid>https://fbxhax.github.io/banner/intro-to-fbxhax/</guid>
       <description>Fairbanks Hackathon A public forum to organize and encourage the growth of a hacking community in Fairbanks Alaska. Fairbanks Hackathon website and events allow passionate hackers to collaborate, connect and tackle interesting problems. The Fairbanks Hackathon GitHub organization allows the community to collect and iterate on ideas and challenges relevant to interior Alaska.</description>
     </item>
     
     <item>
       <title>Fruity Dream Booth</title>
-      <link>https://fairbankshackathon.github.io/project/fruity-dream-booth/</link>
+      <link>https://fbxhax.github.io/project/fruity-dream-booth/</link>
       <pubDate>Sun, 11 Sep 2016 16:08:29 -0800</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/project/fruity-dream-booth/</guid>
+      <guid>https://fbxhax.github.io/project/fruity-dream-booth/</guid>
       <description>The Fruity Dream Booth initial concept was to send pictures taken by a Raspberry Pi based photo-booth through the Google DeepDream library and tweet out the results.
 The challenges and computing requirements for Google Deep Dream made doing this unfeasible on a Raspberry Pi. hacking project learning through pain success
 The project team for Fruity Dream Booth:
  ferrio - core web server teknofire - javascript tweaking and moral support vlraymond - twitter data feed setup, coding and passion dayne - general idea, infrastructure, and glue  The project code is hosted at dayne/fruitydreambooth</description>
+    </item>
+    
+    <item>
+      <title>Fairbanks Dev Meet-up</title>
+      <link>https://fbxhax.github.io/event/2021-10-hackathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbxhax.github.io/event/2021-10-hackathon/</guid>
+      <description>Fairbanks hackers &amp;amp; geeks interested in showing off &amp;amp; checking out neat projects are invited to a UAF Hackathon. This two day event starts off with a Friday night project demos &amp;amp; sharing session followed by a Saturday event hacking.
+ There&amp;rsquo;ll be food and drinks. Bring a project that works , almost works, or is just an idea  </description>
     </item>
     
   </channel>

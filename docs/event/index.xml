@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Fairbanks Hackathon</title>
-    <link>https://fairbankshackathon.github.io/event/</link>
+    <link>https://fbxhax.github.io/event/</link>
     <description>Recent content in Events on Fairbanks Hackathon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 14:20:00 -0400</lastBuildDate>
     
-	<atom:link href="https://fairbankshackathon.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fbxhax.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fairbanks Dev Meet-up</title>
-      <link>https://fairbankshackathon.github.io/event/2017-09-devmeetup/</link>
+      <link>https://fbxhax.github.io/event/2017-09-devmeetup/</link>
       <pubDate>Fri, 22 Sep 2017 14:20:00 -0400</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/event/2017-09-devmeetup/</guid>
+      <guid>https://fbxhax.github.io/event/2017-09-devmeetup/</guid>
       <description>Fairbanks developers are looking to get together to form a dev/programmer meetup in Fairbanks and form a bit of a community around that.
 The group is not yet sure what it&amp;rsquo;ll become - could a web dev meetup, a linux meetup, an AI group, whatever- depending on interest and skills.
  Time is TBD: (fill out doodle poll below to help select a time) Location is at the Fairbanks Attently.io offices (details coming with date selection).</description>
@@ -24,12 +24,22 @@ The group is not yet sure what it&amp;rsquo;ll become - could a web dev meetup, 
     
     <item>
       <title>First Fairbanks Raspberry Jam</title>
-      <link>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</link>
+      <link>https://fbxhax.github.io/event/2017-04-raspberryjam/</link>
       <pubDate>Sat, 22 Apr 2017 14:20:00 -0400</pubDate>
       
-      <guid>https://fairbankshackathon.github.io/event/2017-04-raspberryjam/</guid>
+      <guid>https://fbxhax.github.io/event/2017-04-raspberryjam/</guid>
       <description>The first Fairbanks Raspberry Jam is 1:30-3:30 p.m. on Saturday April 29th, 2017 in Downtown Fairbanks at the Fairbanks Economic Development Corporation. Join us and meet other local Raspberry Pi enthusiasts.
  Share your projects Find out what others are doing Learn new stuff Collaborate with others  Sign up and be eligible to win a Pi at the event (must be present to win). Saturday, April, 29th 2017 1:30 - 3:30 p.</description>
+    </item>
+    
+    <item>
+      <title>Fairbanks Dev Meet-up</title>
+      <link>https://fbxhax.github.io/event/2021-10-hackathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbxhax.github.io/event/2021-10-hackathon/</guid>
+      <description>Fairbanks hackers &amp;amp; geeks interested in showing off &amp;amp; checking out neat projects are invited to a UAF Hackathon. This two day event starts off with a Friday night project demos &amp;amp; sharing session followed by a Saturday event hacking.
+ There&amp;rsquo;ll be food and drinks. Bring a project that works , almost works, or is just an idea  </description>
     </item>
     
   </channel>

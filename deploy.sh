@@ -11,12 +11,12 @@ fi
 git pull -s subtree
 
 # Clear public content
-rm -r public/*
+rm -r docs/*
 # Build the project.
 hugo -d docs
 
 # Add changes to git.
-git add public/*
+git add docs/*
 
 # Commit changes.
 msg="rebuilding site `date`"

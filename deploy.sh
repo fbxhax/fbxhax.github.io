@@ -10,7 +10,7 @@ fi
 #make sure subtree is up to date
 git pull -s subtree
 
-# Clear public content
+# Clear docs content
 rm -r docs/*
 # Build the project.
 hugo -d docs
@@ -28,7 +28,7 @@ git commit -m "$msg"
 # Push source and build repos.
 git push
 if [ -f .key_deploy ]; then
-  git subtree push --prefix=public git@github.com:FairbanksHackathon/fairbankshackathon.github.io.git main
+  git subtree push --prefix=docs git@github.com:FairbanksHackathon/fairbankshackathon.github.io.git main
 else
   git subtree push --prefix=public https://github.com/FairbanksHackathon/fairbankshackathon.github.io main
 fi
